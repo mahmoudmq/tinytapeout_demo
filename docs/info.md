@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A simple adder. input two digits and notice the output
+Will be edited later
 ## How to test
 
-Change your inputs and notice the outputs.. should match the results you expect out of an adder
-
+Will be edited later..
 ## External hardware
 
 Could use an LED to visualize the addition process.. but no hardware needed
